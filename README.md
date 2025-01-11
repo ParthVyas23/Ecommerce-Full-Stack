@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # E-Commerce Full Stack Application
 
 This full-stack e-commerce platform is built using Angular, Spring Boot, MySQL, Okta, and Stripe, offering a comprehensive suite of features for seamless online shopping experiences.
