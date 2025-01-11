@@ -292,5 +292,4 @@ Before you begin, ensure you have met the following requirements:
 
 ---
 
-Congratulations! You've configured our E-Commerce Full Stack Application!!
-=======
+Congratulations! You've configured our E-Commerce Full Stack Application.
